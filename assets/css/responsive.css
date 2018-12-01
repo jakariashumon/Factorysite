@@ -1,0 +1,42 @@
+/*==========Medium Layout: 992px or 1280px==========*/
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+	
+}
+
+/*==========Tablet Layout: 768px or 991px===========*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.border-img {
+    width: 88%;
+    height: 280px;
+}
+.border-img.left-bar {
+    margin-left: 11px;
+}
+.border-img {
+    width: 88%;
+    height: 263px;
+    margin-top: 50px;
+}
+
+
+
+}
+
+/*==========Mobaile Layout: 320px or 767px============*/
+@media only screen and (max-width: 767px) {
+
+}
+
+/*==========Wide Mobaile Layout: 480px or 767px============*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.border-img {
+    width: 95%;
+    margin-bottom: 50px;
+}
+.border-img.left-bar {
+    margin-left: 0px;
+}
+article.single-title {
+    text-align: center;
+}
+}
